@@ -3,11 +3,12 @@ container{
 
 menu{
      background-color:#ffe3c6;
+     
      height:400px;
      width:400px;
-     float:right;}
+     }
 
-main text{
+maintext{
           font-family:Abril Fatface;
           color:grey;
           font-size:20px;}
