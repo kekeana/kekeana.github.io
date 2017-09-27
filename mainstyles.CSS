@@ -1,2 +1,13 @@
 container{ 
           width:100%}
+
+menu{
+     background-color:#ffe3c6;
+     height:400px;
+     width:400px;
+     float:right;}
+
+main text{
+          font-family:Abril Fatface;
+          color:grey;
+          font-size:20px;}
