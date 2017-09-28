@@ -1,10 +1,6 @@
 #container{ 
           width:100%}
 
-#menu{
-     background-color:#ffe3c6;
-     height:400px;
-     width:400px;
-     font-family:Abril Fatface;
-     color:grey;
-     font-size:30px}
+#header{
+        background-color:#c13434;}
+
