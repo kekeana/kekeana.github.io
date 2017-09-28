@@ -2,5 +2,8 @@
           width:100%}
 
 #header{
-        background-color:#c13434;}
+        background-color:#c13434}
+
+#content{
+         border-style: solid;border-color: #68a2ff;height:400px;width:450px;float:left}
 
