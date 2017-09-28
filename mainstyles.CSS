@@ -4,6 +4,9 @@
 #header{
         background-color:#c13434}
 
+#menu{
+       float:right;background-color:#ffe3c6;height:400px;width:400px;font-family:Abril Fatface;color:grey;font-size:20px>
+
 #content{
          border-style: solid;
          border-color: #68a2ff;
