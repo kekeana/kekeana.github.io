@@ -12,3 +12,14 @@
          width:78%;
          float:left}
 
+#table {
+    font-family:Abril Fatface;
+    border-collapse: collapse;
+    width: 87%;}
+
+#td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
