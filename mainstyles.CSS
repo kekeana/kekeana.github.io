@@ -1,5 +1,5 @@
 #container{ 
-          width:100%}
+           width:100%}
 
 #header{
         background-color:#c13434}
@@ -11,3 +11,8 @@
          height:400px;
          width:78%;
          float:left}
+
+#p{
+   font-family:Abril Fatface;
+   color:black;
+   font-size:18px;"}
